@@ -1,0 +1,28 @@
+_repo: A-Century-of-Christian-ServiceKensington-Congregational-Church-1793-1893_43505
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43505-h/images/coverb.jpg
+creator:
+  author:
+    agent_name: Horne, C. Silvester (Charles Silvester)
+    alias: Horne, Charles Silvester
+    birthdate: 1865
+    deathdate: 1914
+    gutenberg_agent_id: '42261'
+    url: http://www.gutenberg.org/2009/agents/42261
+description: ''
+gutenberg_issued: '2013-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Congregational churches -- England -- London'
+- !lcc 'BX'
+- !lcsh 'Kensington Congregational Church (London, England)'
+title: 'A Century of Christian Service: Kensington Congregational Church, 1793-1893'
+url: http://www.gutenberg.org/ebooks/43505
