@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42261'
     url: http://www.gutenberg.org/2009/agents/42261
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43505#A-Century-of-Christian-ServiceKensington-Congregational-Church-1793-1893
 gutenberg_issued: '2013-08-19'
 gutenberg_type: Text
 identifiers:
